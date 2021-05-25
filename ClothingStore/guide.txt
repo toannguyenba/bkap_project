@@ -1,1 +1,3 @@
 this is ecommerce web.
+
+The website is built to support sellers.
